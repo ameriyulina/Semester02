@@ -53,14 +53,15 @@
                     <div class="col-md-4">
                         <select class="form-select" name="matkul" aria-label="" required>
                         <option selected></option>
-                        <option value="PPKN">PPKN</option>
+                        
+                        <option value="UI/UX">UI/UX</option>
                         <option value="Bahasa Inggris">Bahasa Inggris</option>
                         <option value="Keterampilan Komunikasi">Keterampilan Komunikasi</option>
                         <option value="Statistik">Statistik</option>
-                        <option value="Basis Data">Basis Data</option>
-                        <option value="UI/UX">UI/UX</option>
-                        <option value="Pemrograman Web 2">Pemrograman Web 2</option>
+                        <option value="PPKN">PPKN</option>
                         <option value="Jaringan Komputer">Jaringan Komputer</option>
+                        <option value="Pemrograman Web 2">Pemrograman Web 2</option>
+                        <option value="Basis Data">Basis Data</option>
                     </div>
                 </div>
                 </select>
